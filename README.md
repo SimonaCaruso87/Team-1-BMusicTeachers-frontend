@@ -1,8 +1,12 @@
 # Team-1-BMusicTeachers-frontend
 
-Autori
+<h1 align="left">💻 Autori</h1>
 
-Francesco Di Corpo - main contributor - @Francescodc92
-Andrea Piani - main contributor - @Andreapiani95
-Marco Campisi - main contributor - @marcocampisi
-Simona Caruso - main contributor - @SimonaCaruso87
+<br>
+
+<h4 color="red">-Francesco Di Corpo - main contributor - @Francescodc92</h4>
+<h4 color="yellowe">-Andrea Piani - main contributor - @Andreapiani95</h4>
+<h4 color="green">-Marco Campisi - main contributor - @marcocampisi</h4>
+<h4 color="pink">-Simona Caruso - main contributor - @SimonaCaruso87</h4>
+
+
